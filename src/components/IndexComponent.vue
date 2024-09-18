@@ -2,7 +2,7 @@
   <main>
     <div class="hero">
       <header>
-        <img width="87px" src="../img/isotipo.SVG" alt="" srcset="">
+        <img width="87px" src="../img/isotipo.svg" alt="" srcset="">
         <button>Contact me</button>
         
       </header>
